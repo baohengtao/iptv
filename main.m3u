@@ -3,5 +3,6 @@ http://58.46.202.137:4023/rtp/239.76.254.66:9000
 #EXTINF:-1 tvg-id="浙江卫视4K" tvg-name="浙江卫视4K" tvg-logo="https://live.404003.xyz/LOGO/浙江卫视4K.png" group-title="卫视",浙江卫视4K
 https://play-qukan.cztv.com/live/1758879019692345.m3u8
 #EXTINF:-1 tvg-id="东方卫视4K" tvg-name="东方卫视4K" tvg-logo="https://live.404003.xyz/LOGO/东方卫视4K.png" group-title="卫视",东方卫视4K
-# 1080p@50fps
 https://www.wmviv.com/iptv/bc2t.php?id=dfws4k
+#EXTINF:-1 tvg-id="CCTV风云音乐" tvg-name="CCTV风云音乐" tvg-logo="https://epg.pw/media/images/channel/2024/07/28/large/20240728222635985513_51.png" group-title="央视",CCTV风云音乐
+https://t.freetv.fun/live/feng-yun-yin-le-1.m3u8
