@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-id="欢笑剧场4K" tvg-name="欢笑剧场4K" tvg-logo="https://github.com/llxxcc2025/llxxcc2025/blob/main/logo/hxjc.jpg?raw=true" group-title="其他",欢笑剧场4K
 http://58.46.202.137:4023/rtp/239.76.254.66:9000
-#EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视4K" tvg-logo="https://live.404003.xyz/LOGO/北京卫视.png" group-title="卫视",北京卫视4K
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s110/index.m3u8?time=1768278618&sign=da2912a68daf57f890888e58af35a82f
+#EXTINF:-1 tvg-id="浙江卫视4K" tvg-name="浙江卫视4K" tvg-logo="https://live.404003.xyz/LOGO/浙江卫视4K.png" group-title="卫视",浙江卫视-4K
+https://play-qukan.cztv.com/live/1758879019692345.m3u8
 
